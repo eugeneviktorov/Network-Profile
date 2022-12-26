@@ -1,0 +1,83 @@
+TERMS OF USE
+Russia, Omsk December 07, 2022
+            
+1. GENERAL PROVISIONS
+1.1. This User Agreement. "Network Profile", located at "https://eugeneviktorov.github.io", and to all relevant sites linked to the site "https://eugeneviktorov.github.io".
+1.2. The Network Profile website is the property of Eugene Viktorov.
+1.3. This Agreement governs the relationship between the Administration of the site "Network Profile" and the User of this Site.
+1.4. The site administration reserves the right to change, add or remove clauses of this Agreement at any time without notifying the User.
+1.5. Continued use of the Site by the User means acceptance of the Agreement and the changes made to this Agreement.
+1.6. The User is personally responsible for checking this Agreement for changes in it.
+            
+2. DEFINITIONS OF TERMS
+2.1. The following terms have the following meanings for the purposes of this Agreement:
+2.1.1 "Network Profile" - A site located on the domain name "https://eugeneviktorov.github.io", operating through an Internet resource and related services.
+2.1.2. A site containing information about Personal Data, allowing you to make a choice, study user data.
+2.1.3. Administration of the "Network Profile" site - authorized employees to manage the Site, acting on behalf of "Network Profile" Eugene Viktorov.
+2.1.4. User of the site "Network Profile" - a person who has access to the Site via the Internet and uses the Site.
+2.1.5. Content of the Network Profile website - protected results of intellectual activity, including texts of literary works, their titles, prefaces, annotations, articles, illustrations, covers, musical works with or without text, graphic, textual, photographic, derivative, composite and other works , user interfaces, visual interfaces, trademark names, logos, computer programs, databases, as well as the design, structure, selection, coordination, appearance, general style and arrangement of this Content, which is part of the Site and other objects of intellectual property, all together and/or individually contained on the Network Profile website.
+
+3. SUBJECT OF THE AGREEMENT
+3.1. The subject of this Agreement is to provide the User of "Network Profile" with access to the services provided on the Site.
+3.1.1. "Network Profile" provides the User with the following types of services:
+• access to electronic content free of charge, with the right to purchase (download), view content;
+• access to information about Personal Data;
+• other types of services implemented on the pages of "Network Profile".
+3.1.2. All currently existing (actually functioning) Network Profile services, as well as any of their subsequent modifications and additional Network Profile services that appear in the future, are subject to this Agreement.
+3.2. Access to the "Network Profile" is provided free of charge.
+3.3. The use of materials and services of the Site is governed by the norms of the current legislation of the Russian Federation.
+            
+4. RIGHTS AND OBLIGATIONS OF THE PARTIES
+4.1. The site administration has the right to:
+4.1.1. Change the rules for using the Site, as well as change the content of this Site. The changes come into force from the moment the new version of the Agreement is published on the Site.
+4.1.2. Restrict access to the Site in case of violation by the User of the terms of this Agreement.
+4.2. The user has the right:
+4.2.1. Get access to the use of the Site after complying with the requirements of the user agreement.
+4.2.2. Use all the services available on the Site.
+4.2.3. Use the Site solely for the purposes and in the manner provided for by the Agreement and not prohibited by the legislation of the Russian Federation.
+4.3. The Site User undertakes:
+4.3.1. Observe the property and non-property rights of authors and other copyright holders when using the Site.
+4.3.2. Do not take actions that may be considered as disrupting the normal operation of the Site.
+4.3.3. Do not distribute using the Site any confidential and protected by the legislation of the Russian Federation information about individuals or legal entities.
+4.3.4. Avoid any actions that may violate the confidentiality of information protected by the legislation of the Russian Federation.
+4.3.5. Do not use the Site to distribute information of an advertising nature, except with the consent of the Site Administration.
+4.4. The user is prohibited from:
+4.4.1. Use any devices, programs, procedures, algorithms and methods, automatic devices or equivalent manual processes to access, acquire, copy or monitor the content of the Network Profile Site;
+4.4.2. Disrupt the proper functioning of the Site;
+4.4.3. By any means bypass the navigation structure of the Site to obtain or attempt to obtain any information, documents or materials by any means that are not specifically provided by the services of this Site;
+4.4.4. Unauthorized access to the functions of the Site, any other systems or networks related to this Site, as well as to any services offered on the Site;
+4.4.5. Violate the security or authentication system on the Site or any network associated with the Site.
+4.4.6. Perform a reverse search, track or attempt to track any information about any other User of the Site.
+4.4.7. Use the Site and its Content for any purpose prohibited by the laws of the Russian Federation, as well as incite any illegal activity or other activity that violates the rights of the Site or other persons.
+
+5. USE OF THE NETWORK PROFILE SITE
+5.1. The Site and the Content included in the Site are owned and operated by the Site Administration.
+5.2. The content of the Site may not be copied, published, reproduced, transmitted or distributed in any way, or posted on the global Internet without the prior written consent of the Site Administration.
+5.3. The content of the Site is protected by copyright, trademark law, as well as other rights related to intellectual property and unfair competition law.
+5.4. This Agreement applies to all additional terms and conditions for the provision of services provided on the Site.
+5.5. Information posted on the Site should not be construed as a change to this Agreement.
+5.6. The Site Administration has the right at any time without notice to the User to make changes to the list of services offered on the Site and (or) to the prices applicable to such Goods for their sale and (or) the services provided by "Network Profile".
+            
+6. RESPONSIBILITY
+6.1. Any losses that the User may incur in the event of intentional or reckless violation of any provision of this Agreement, as well as due to unauthorized access to communications of another User, are not reimbursed by the Site Administration.
+6.2. The site administration is not responsible for:
+6.2.1. Delays or failures in the process of performing a transaction due to force majeure, as well as any case of malfunctions in telecommunications, computer, electrical and other related systems.
+6.2.2. Proper functioning of the Site if the User does not have the necessary technical means for its use, and also does not bear any obligations to provide users with such means.
+            
+7. VIOLATION OF THE TERMS OF THE USER AGREEMENT
+7.1. The Site Administration has the right to disclose any information collected about the User of this Site if disclosure is necessary in connection with an investigation or complaint regarding the misuse of the Site or to identify (identify) a User who may violate or interfere with the rights of the Site Administration or the rights of other Site Users.
+7.2. The site administration has the right to disclose any information about the User that it deems necessary to comply with the provisions of the current legislation or court decisions, ensure compliance with the terms of this Agreement, protect the rights or security of the name of the organization, Users.
+7.3. The site administration has the right to disclose information about the User if the current legislation of the Russian Federation requires or permits such disclosure.
+7.4. The Site Administration has the right, without prior notice to the User, to terminate and (or) block access to the Site if the User has violated this Agreement or the terms of use of the Site contained in other documents, as well as in case of termination of the Site or due to a technical malfunction or problem.
+7.5. The Site Administration is not liable to the User or third parties for termination of access to the Site in case of violation by the User of any provision of this Agreement or other document containing the terms of use of the Site.
+            
+8. DISPUTES RESOLUTION
+8.1. In the event of any disagreements or disputes between the Parties to this Agreement, a prerequisite before going to court is the presentation of a claim (a written proposal for a voluntary settlement of the dispute).
+8.2. The recipient of the claim, within 30 calendar days from the date of its receipt, notifies the claimant in writing of the results of the consideration of the claim.
+8.3. If it is impossible to resolve the dispute on a voluntary basis, any of the Parties has the right to apply to the court for the protection of their rights, which are granted to them by the current legislation of the Russian Federation.
+8.4. Any claim regarding the terms of use of the Site must be filed within the period after the grounds for the claim arise, with the exception of copyright protection for the materials of the Site protected in accordance with the law. In the event of a breach of this clause, any claim or cause of action shall be extinguished by the statute of limitations.
+            
+9. ADDITIONAL TERMS
+9.1. The site administration does not accept counter offers from the User regarding changes to this User Agreement.
+            
+Updated December 07, 2022

@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <title>404</title>
+      <link rel="apple-touch-icon" href="icons/apple-icon(192x192).png"/>
+      <link rel="apple-touch-icon" sizes="57x57" href="icons/apple-icon-57x57.png"/>
+      <link rel="apple-touch-icon" sizes="60x60" href="icons/apple-icon-60x60.png"/>
+      <link rel="apple-touch-icon" sizes="72x72" href="icons/apple-icon-72x72.png"/>
+      <link rel="apple-touch-icon" sizes="76x76" href="icons/apple-icon-76x76.png"/>
+      <link rel="apple-touch-icon" sizes="114x114" href="icons/apple-icon-114x114.png"/>
+      <link rel="apple-touch-icon" sizes="120x120" href="icons/apple-icon-120x120.png"/>
+      <link rel="apple-touch-icon" sizes="144x144" href="icons/apple-icon-144x144.png"/>
+      <link rel="apple-touch-icon" sizes="152x152" href="icons/apple-icon-152x152.png"/>
+      <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-icon-180x180.png"/>
+      <link rel="apple-touch-icon" sizes="192x192" href="icons/apple-icon-precomposed-192x192.png"/>
+      <link rel="icon" type="image/png" sizes="192x192"  href="icons/android-icon-192x192.png"/>
+      <link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16x16.png"/>
+      <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32x32.png"/>
+      <link rel="icon" type="image/png" sizes="96x96" href="icons/favicon-96x96.png"/>
+      <link rel="shortcut icon" type="image/x-icon" href="icons/favicon.ico">
+      <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
+      <link rel="manifest" href="manifest.json"> <!-- At the root of the site -->
+      <meta name="msapplication-TileColor" content="#ffffff">
+      <meta name="msapplication-TileImage" content="icons/ms-icon-144x144.png">
+      <meta name="theme-color" content="#ffffff">
+      <meta name="apple-mobile-web-app-capable" content="yes">
+      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+   </head>
+   <body style="font-family: OpenSans-Regular">
+      <style>
+         @font-face {
+         font-family: OpenSans-Regular;
+         src: url(index/files/OpenSans-Regular.ttf);
+         }
+      </style>
+      <div class="preload">
+         <img src="icons/logo-512x512.png" class="pre_logo" width="300" />
+      </div>
+      <div class="wrapper"></div>
+      <div class="logo">
+         <img src="icons/logo-512x512.png" class="logotype" />
+      </div>
+      <div class="text">
+         <p>404 ERROR</p>
+      </div>
+      <div class="about">
+         <p>Page Not Found</p>
+      </div>
+      <div class="link">
+         <a href="https://eugeneviktorov.github.io">
+            <p>Home
+         </a>
+         </p>
+      </div>
+      <div class="reserved">
+         <p>© Network Profile 2022 <br>All Rights Reserved<br><a href="index/files/Terms Of Use.txt" target="_blank">Terms of use</a></p>
+      </div>
+      <style>
+         html{
+         -webkit-user-select: none;
+         /* Safari */
+         -moz-user-select: none;
+         /* Firefox */
+         -ms-user-select: none;
+         /* IE10+/Edge */
+         user-select: none;
+         /* Standard */
+         }
+         body {
+         background: #ffffff;
+         }
+         body.dark-theme {
+         color: #ffffff;
+         background: #000000;
+         }
+         body.dark-theme a {
+         color: #32AFED;
+         }
+         body.dark-theme a:hover {
+         color: #288dec;
+         }
+         body.dark-theme .preload{
+         background: #000000;
+         }
+         body.dark-theme .text{
+         color: #ffffff;
+         }
+         body.dark-theme .about{
+         color: #ffffff;
+         }
+         a{
+         color:inherit;
+         text-decoration:none;
+         color: #32AFED;
+         transition: 0.3s;
+         }
+         a:hover{
+         color: #288dec;
+         }
+         ::-webkit-scrollbar{
+         width: 10px;
+         }
+         ::-webkit-scrollbar-thumb{
+         border-radius: 20px;
+         background: #BBBBBB;
+         }
+         .wrapper {
+         opacity: 0;
+         }
+         .preload{
+         display: block;
+         width: 100%;
+         height: 100%;
+         background: #ffffff;
+         position: fixed;
+         top: 0;
+         left: 0;
+         transition: all 0.7s ease-in-out;
+         z-index: 999;
+         pointer-events: none;
+         }
+         .preload.invisible{
+         top: -100%;
+         opacity: 0;
+         }
+         .pre_logo{
+         margin: 0;
+         position: absolute;
+         top: 50%;
+         left: 50%;
+         margin-right: -50%;
+         transform: translate(-50%, -50%);
+         }
+         .logo{
+         text-align: center;
+         }
+         .logotype{
+         width: 250px;
+         pointer-events: none;
+         }
+         .text{
+         font-size: 68px;
+         text-align: center;
+         color: #000000;
+         cursor: default;
+         }
+         .about{
+         color: #000000;
+         font-size: 32px;
+         text-align: center;
+         cursor: default;
+         }
+         .link{
+         font-size: 32px;
+         text-align: center;
+         }
+         .reserved{
+         color: #BBBBBB;
+         text-align: center;
+         margin-top: 2%;
+         margin-bottom: 2%;
+         font-size: 18px;
+         }
+      </style>
+      <script>
+         setTimeout(() => {
+         document.querySelector('.preload').classList.add('invisible')
+         }, 1000)
+         
+         const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+         
+         if (prefersDarkScheme.matches) {
+         document.body.classList.add('dark-theme');
+         } else {
+         document.body.classList.remove('dark-theme');
+         }
+      </script>
+      </div>
+   </body>
+</html>
